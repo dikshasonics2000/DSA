@@ -1,4 +1,5 @@
-/*package hello;
+package dataStructureAndAlgo;
+/*package dataStructureAndAlgo;
 class ThreadDemo {
 public static void main(String args[]) {
 new NewThread(); // create a new thread

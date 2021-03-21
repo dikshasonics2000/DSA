@@ -1,4 +1,4 @@
-package hello;
+package dataStructureAndAlgo;
 
 public class CustomOperations{
 	private CustomLinkList linkList;

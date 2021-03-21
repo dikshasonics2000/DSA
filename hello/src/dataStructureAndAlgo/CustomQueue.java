@@ -1,4 +1,4 @@
-package hello;
+package dataStructureAndAlgo;
 
 public class CustomQueue implements IQueue {
 	private int[] queue = new int[6];

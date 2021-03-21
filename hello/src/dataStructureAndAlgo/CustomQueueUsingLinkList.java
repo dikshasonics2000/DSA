@@ -1,4 +1,4 @@
-package hello;
+package dataStructureAndAlgo;
 
 public class CustomQueueUsingLinkList implements IQueue {
      public static void main(String args[])

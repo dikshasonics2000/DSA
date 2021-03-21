@@ -1,6 +1,5 @@
 package hello;
 
-
 public class CustomOperations{
 	private CustomLinkList linkList;
 	private CustomLinkList linkedList;

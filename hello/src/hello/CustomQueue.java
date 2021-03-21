@@ -16,8 +16,6 @@ public class CustomQueue implements IQueue {
 		queue.pop();
 		queue.pop();
 		queue.pop();
-
-
 	}
 	@Override
 	public int pop() {
@@ -68,9 +66,8 @@ public class CustomQueue implements IQueue {
 			System.out.print(queue[counter]+ " ");
 		}
 		System.out.println();
-
-
 	}
+	
 	@Override
 	public boolean isEmpty() {
 		// TODO Auto-generated method stub
